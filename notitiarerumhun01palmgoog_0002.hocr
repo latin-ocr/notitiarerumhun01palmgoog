@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./notitiarerumhun01palmgoog/notitiarerumhun01palmgoog_0002.png"; bbox 0 0 3675 5125; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1405 2321 2402 2553">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1405 2321 2402 2553">
+     <span class='ocr_line' id='line_1_1' title="bbox 1405 2321 2186 2413; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1405 2322 1782 2413; x_wconf 71' lang='lat' dir='ltr'>Salomon</span> <span class='ocrx_word' id='word_1_2' title='bbox 1806 2326 1904 2413; x_wconf 81' lang='lat' dir='ltr'>R.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1934 2321 2186 2413; x_wconf 63' lang='lat' dir='ltr'><strong>Bake:</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1928 2461 2402 2553; baseline -0.008 0"><span class='ocrx_word' id='word_1_4' title='bbox 1928 2461 2147 2553; x_wconf 79' lang='lat' dir='ltr'>Book</span> <span class='ocrx_word' id='word_1_5' title='bbox 2166 2462 2402 2550; x_wconf 81' lang='lat' dir='ltr'><strong>Fund</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1926 2730 2518 2998">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1926 2730 2518 2998">
+     <span class='ocr_line' id='line_1_3' title="bbox 1926 2730 2518 2846; baseline 0 -28"><span class='ocrx_word' id='word_1_6' title='bbox 1926 2730 2166 2818; x_wconf 79' lang='lat' dir='ltr'>Made</span> <span class='ocrx_word' id='word_1_7' title='bbox 2194 2730 2518 2846; x_wconf 77' lang='lat' dir='ltr'>possible</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1930 2878 2266 2998; baseline 0 -28"><span class='ocrx_word' id='word_1_8' title='bbox 1930 2881 2030 2998; x_wconf 77' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_9' title='bbox 2049 2914 2095 2970; x_wconf 75' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_10' title='bbox 2113 2878 2266 2994; x_wconf 68' lang='lat' dir='ltr'>gift</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1929 3030 2298 3269">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1929 3030 2298 3269">
+     <span class='ocr_line' id='line_1_5' title="bbox 1933 3030 2166 3118; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 1933 3054 2014 3118; x_wconf 79' lang='lat' dir='ltr'>tn</span> <span class='ocrx_word' id='word_1_12' title='bbox 2037 3030 2166 3118; x_wconf 78' lang='lat' dir='ltr'>the</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1929 3177 2298 3269; baseline 0 -2"><span class='ocrx_word' id='word_1_13' title='bbox 1929 3177 2298 3269; x_wconf 72' lang='lat' dir='ltr'>stanford</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1930 3330 2370 3446">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1930 3330 2370 3446">
+     <span class='ocr_line' id='line_1_7' title="bbox 1930 3330 2370 3446; baseline -0.009 -28"><span class='ocrx_word' id='word_1_14' title='bbox 1930 3330 2370 3446; x_wconf 68' lang='lat' dir='ltr'>University</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 639 344 3039 4738">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 639 344 3039 4738">
+     <span class='ocr_line' id='line_1_8' title="bbox 639 344 3039 4738; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 639 344 3039 4738; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
